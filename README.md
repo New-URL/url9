@@ -1,8 +1,3 @@
-<html>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<head>
-<title>mysql简介</title>
-<head>
 <body>
 <h1>MySql(关系型数据库管理系统)</h1>
 <ol>
@@ -55,5 +50,4 @@
 <div>24.GIS的空间扩展 （5.7新增）</div>
 </ol>
 </body>
-</html>
 
